@@ -6,4 +6,4 @@ The directory included is the found in /usr/local of the google coral board. To 
 The passive.py program should work after the lib is installed and will confirm the proper instalation of the lib.
 
 
-***THIS LIB IS CREATED FOR USE WITH THE GOOGLE CORAL BOARD AND IS NOT MEANT TO FUNCTION ON ANY OTHER DEVICE
+*THIS LIB IS CREATED FOR USE WITH THE GOOGLE CORAL BOARD AND IS NOT MEANT TO FUNCTION ON ANY OTHER DEVICE
